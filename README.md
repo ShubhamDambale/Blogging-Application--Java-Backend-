@@ -1,1 +1,1 @@
-# Blogging-Application--Java-Backend-
+# Blogging-Application-Java-Backend
